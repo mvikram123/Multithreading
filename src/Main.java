@@ -11,7 +11,7 @@ public class Main {
         for(int i=0; i<5; i++)
         {
             System.out.println("Messi");
-            Thread.sleep(2000);      //after two second messi will print
+            Thread.sleep(2000);     //everytimes messi will print after two seconds
         }
     }
 
